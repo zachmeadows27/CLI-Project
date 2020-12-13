@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem displays prebuilt gaming computers along with price and availability. To use this gem, press enter for the number of the deal you'd like more info on. From there, you will be given the price and a link to the computer's page on Bestbuy.
+
+If you'd like to continue browsing, type 'list' at any time to return to the list of deals.  'Exit' will terminate the gem.
 
 ## Development
 
