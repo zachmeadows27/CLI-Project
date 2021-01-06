@@ -1,0 +1,5 @@
+- types of variables
+- class methods vs instance methods 
+- self 
+- difference between each vs map/collect 
+- arrays + elements 
